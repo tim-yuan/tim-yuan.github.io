@@ -5,7 +5,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 Source code for my personal website. 
 
 
-View it here: [tim-yuan](https://tim-yuan.github.io/).
+View it here: [tim-yuan.github.io](https://tim-yuan.github.io/)
 
 
 
